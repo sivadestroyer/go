@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Time is precise")
-
+	var a = [10]int{1, 2}
+	fmt.Print(a)
 }
